@@ -1,0 +1,50 @@
+
+#grostitre {
+    font-size: large;
+    color: white;
+}
+
+#petittitre {
+    font-size: smaller;
+    color: gray;
+}
+
+#vid {
+    align-items: center;
+}
+
+.interieurannée {
+    color: rgb(171, 130, 187);
+}
+
+.titreannée{
+    color: #263f92;
+}
+
+.livreimage {
+    align-self: center;
+}
+#années{
+    display: flex;
+    justify-content: space-around;
+}
+.element{
+    width: 300px;
+    height:600px;
+    background-color: white;
+    padding:10px;
+}
+
+#tableau {
+    border-width:1px; 
+    border-style:inset; 
+    border-color:black;
+    width:50%;
+}
+
+.link {
+    color: black;
+}
+.ecriture {
+    color: rgb(171, 130, 187);
+}
